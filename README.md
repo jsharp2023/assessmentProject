@@ -1,0 +1,1 @@
+I am creating a simple music app to play music for workouts, date nights, meditation, or motivation. In this app, you will be able to click what type of music you need from a drop-down box and a list of songs will play. 
